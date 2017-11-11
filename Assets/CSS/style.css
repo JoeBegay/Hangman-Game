@@ -1,0 +1,12 @@
+.hangmanBackground {
+	background-image: url("../Images/hangman-image.png");
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-size: 500px;
+	height: 500px;
+	width: 500px;
+}
+
+#right {
+    letter-spacing: 3px;
+}
